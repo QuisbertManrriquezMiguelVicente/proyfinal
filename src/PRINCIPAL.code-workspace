@@ -1,0 +1,67 @@
+{
+	"folders": [
+		{
+			"path": "../../../PRINCIPAL"
+		},
+		{
+			"path": "../../proy1"
+		},
+		{
+			"path": "../../modelocajas2"
+		},
+		{
+			"path": "../../Tarea1"
+		},
+		{
+			"path": "../../proy3"
+		},
+		{
+			"path": "../../ProyectoNuevo"
+		},
+		{
+			"path": "../../GUSANITO"
+		},
+		{
+			"path": "../../aprendoflexbox"
+		},
+		{
+			"path": "../../grid"
+		},
+		{
+			"path": "../../tarea3"
+		},
+		{
+			"path": "../../bootstrap"
+		},
+		{
+			"path": "../../PracticaParaExamen"
+		},
+		{
+			"path": "../../pracexam2"
+		},
+		{
+			"path": "../../EXAMEN WEB 2"
+		},
+		{
+			"path": "../../prac"
+		},
+		{
+			"path": "../../mi-app"
+		},
+		{
+			"path": "../../proy-rutas"
+		},
+		{
+			"path": "../../cinemateca"
+		},
+		{
+			"path": "../../../Downloads/cinemateca1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proy-rutas"
+	}
+}
